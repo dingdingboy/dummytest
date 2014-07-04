@@ -13,4 +13,7 @@ add branch learngit2 again
 here i am doing git branch learning now
 
 Doing change in learngit after merged
+<<<<<<< HEAD
 >>>>>>> .merge_file_a23756
+=======
+>>>>>>> learngit
