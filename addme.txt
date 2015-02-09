@@ -2,3 +2,4 @@ this is a test file for git learning.
 hello git.
 
 similargit
+hello world, vim and git is really not user friendly.
