@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is the first line before doing anything
+=======
+this is a test file for git learning.
+hello git.
+
+similargit
+hello world, vim and git is really not user friendly.
+>>>>>>> 1be39f2c41c89ff6c90e1d08266bd95257c70254
